@@ -1,7 +1,6 @@
 import re, json, requests
 from bs4 import BeautifulSoup
 from parameters import BASE_URLS  # lijst met urls naar verschillende PGS-publicaties
-
 from pdfminer.high_level import extract_text
 import pathlib
 from chunking import chunk_text
@@ -109,11 +108,6 @@ def scrape_pdf(pdf_path: str, source_url: str, pgs_label: str):
         })
     return docs
 
-import re, json, requests
-from bs4 import BeautifulSoup
-from scraper import parse_block, scrape_pdf   # <-- your functions
-from chunking import chunk_text
-from parameters import BASE_URLS
 
 if __name__ == "__main__":
     all_docs = []
