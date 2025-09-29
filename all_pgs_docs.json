@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "PGS 1",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS1",
+    "title": "PGS 1",
+    "text": "PGS 1 Methoden voor het bepalen van mogelijke schade* Aan mensen en goederen door het vrijkomen van gevaarlijke stoffen In deze publicatie (ook bekend als het ‘groene boek’) worden schademodellen gepresenteerd ten behoeve van het bepalen van mogelijke schade aan mensen en goederen door het vrijkomen van gevaarlijk stoffen. Aan het hanteren van de schademodellen zal over het algemeen het toepassen van zogenaamde effectmodellen voorafgaan. Met behulp van schademodellen kunnen de berekende effecten worden omgerekend naar schade aan mensen of goederen. Tezamen vormden het ‘rode boek’ (PGS 4: kansen), het ‘gele boek’ (PGS 2: effecten), het ‘paarse boek’ (PGS 3: Kwantitatieve Risico Analyse) en het ‘groene boek’ (PGS 1: schade) de reeks standaardwerken ten behoeve van risicoanalyses. * Belangrijk hierbij is dat de systematiek van de voorgeschreven risico analyse in Nederland de afgelopen jaren is gewijzigd. Het gebruik van het rekenpakket SAFETI-NL is nu voorgeschreven voor het berekenen van de externe veiligheidsrisico's van een inrichting met gevaarlijke stoffen. Samen met de Handleiding Risicoberekeningen Bevi vervangt dit pakket de gekleurde boeken (PGS 1 t/m 4). De gekleurde boeken worden in principe niet meer geactualiseerd, maar blijven voorlopig beschikbaar als historisch naslag werk. Meer informatie over SAFETI-NL en de bijbehorende Handleiding vindt u op www.rivm.nl. Voorgaande publicaties 9 PGS 1:2005 Voorwoord en inleiding PGS 1:2005 deel 1A: Effecten van brand op personen PGS 1:2005 deel 1B: Effecten van brand op constructies PGS 1:2005 deel 2A: Effecten van explosie op personen PGS 1:2005 deel 2B: Effecten van explosie op constructies PGS 1:2005 deel 3: Toxische verbrandingsproducten PGS 1:2005 deel 4: Schade door acute (inhalatoire) intoxicatie PGS 1:2005 deel 5: Bescherming tegen toxische stoffen door verblijf binnenshuis PGS 1:2005 deel 6: Aanwezigheidsgegevens Inschrijven nieuwsbrief PGS 1 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 1 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 1:2005 Voorwoord en inleiding",
+      "PGS 1:2005 deel 1A: Effecten van brand op personen",
+      "PGS 1:2005 deel 1B: Effecten van brand op constructies",
+      "PGS 1:2005 deel 2A: Effecten van explosie op personen",
+      "PGS 1:2005 deel 2B: Effecten van explosie op constructies",
+      "PGS 1:2005 deel 3: Toxische verbrandingsproducten",
+      "PGS 1:2005 deel 4: Schade door acute (inhalatoire) intoxicatie",
+      "PGS 1:2005 deel 5: Bescherming tegen toxische stoffen door verblijf binnenshuis",
+      "PGS 1:2005 deel 6: Aanwezigheidsgegevens"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs1/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS1",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs1/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS1",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs1/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS1",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs1/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS1",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs1/"
+  },
+  {
+    "id": "PGS 2",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS2",
+    "title": "PGS 2",
+    "text": "PGS 2 Methods for the calculation of physical effects In deze publicatie (ook bekend als het ‘gele boek’) worden effectmodellen gepresenteerd ten behoeve van het bepalen van mogelijke effecten door het vrijkomen van gevaarlijk stoffen. Tezamen vormden het ‘rode boek’ (PGS 4: kansen), het ‘gele boek’ (PGS 2: effecten), het ‘paarse boek’ (PGS 3: Kwantitatieve Risico Analyse) en het ‘groene boek’ (PGS 1: schade) de reeks standaardwerken ten behoeve van risicoanalyses. * Belangrijk hierbij is dat de systematiek van de voorgeschreven risico analyse in Nederland de afgelopen jaren is gewijzigd. Het gebruik van het rekenpakket SAFETI-NL is nu voorgeschreven voor het berekenen van de externe veiligheidsrisico's van een inrichting met gevaarlijke stoffen. Samen met de Handleiding Risicoberekeningen Bevi vervangt dit pakket de gekleurde boeken (PGS 1 t/m 4). De gekleurde boeken worden in principe niet meer geactualiseerd, maar blijven voorlopig beschikbaar als historisch naslag werk. Meer informatie over SAFETI-NL en de bijbehorende Handleiding vindt u op www.rivm.nl. Voorgaande publicaties 1 PGS 2:1997/2005 Inschrijven nieuwsbrief PGS 2 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 2 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 2:1997/2005"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs2/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS2",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs2/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS2",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs2/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS2",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs2/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS2",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs2/"
+  },
+  {
+    "id": "PGS 3",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS3",
+    "title": "PGS 3",
+    "text": "PGS 3 Guidelines for quantitative risk assessment In deze publicatie (ook bekend als het ‘paarse boek’) worden rekenmethoden beschreven voor het uitvoeren van risicoberekeningen. Tezamen vormden het ‘rode boek’ (PGS 4: kansen), het ‘gele boek’ (PGS 2: effecten), het ‘paarse boek’ (PGS 3: Kwantitatieve Risico Analyse) en het ‘groene boek’ (PGS 1: schade) de reeks standaardwerken ten behoeve van risicoanalyses. * Belangrijk hierbij is dat de systematiek van de voorgeschreven risico analyse in Nederland de afgelopen jaren is gewijzigd. Het gebruik van het rekenpakket SAFETI-NL is nu voorgeschreven voor het berekenen van de externe veiligheidsrisico's van een inrichting met gevaarlijke stoffen. Samen met de Handleiding Risicoberekeningen Bevi vervangt dit pakket de gekleurde boeken (PGS 1 t/m 4). De gekleurde boeken worden in principe niet meer geactualiseerd, maar blijven voorlopig beschikbaar als historisch naslag werk. Meer informatie over SAFETI-NL en de bijbehorende Handleiding vindt u op www.rivm.nl. Voorgaande publicaties 1 PGS 3:1999/2005 Inschrijven nieuwsbrief PGS 3 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 3 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 3:1999/2005"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs3/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS3",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs3/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS3",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs3/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS3",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs3/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS3",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs3/"
+  },
+  {
+    "id": "PGS 4",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS4",
+    "title": "PGS 4",
+    "text": "PGS 4 Methods for determining and processing probabilities In deze publicatie (ook bekend als het ‘rode boek’) worden methoden beschreven voor het bepalen van ongevalscenario’s met bijbehorende kansen en hoe hier mee om te gaan (statistiek). Tezamen vormden het ‘rode boek’ (PGS 4: kansen), het ‘gele boek’ (PGS 2: effecten), het ‘paarse boek’ (PGS 3: Kwantitatieve Risico Analyse) en het ‘groene boek’ (PGS 1: schade) de reeks standaardwerken ten behoeve van risicoanalyses. * Belangrijk hierbij is dat de systematiek van de voorgeschreven risico analyse in Nederland de afgelopen jaren is gewijzigd. Het gebruik van het rekenpakket SAFETI-NL is nu voorgeschreven voor het berekenen van de externe veiligheidsrisico's van een inrichting met gevaarlijke stoffen. Samen met de Handleiding Risicoberekeningen Bevi vervangt dit pakket de gekleurde boeken (PGS 1 t/m 4). De gekleurde boeken worden in principe niet meer geactualiseerd, maar blijven voorlopig beschikbaar als historisch naslag werk. Meer informatie over SAFETI-NL en de bijbehorende Handleiding vindt u op www.rivm.nl. Voorgaande publicaties 1 PGS 4:1997 (12-2005) Inschrijven nieuwsbrief PGS 4 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 4 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 4:1997 (12-2005)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs4/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS4",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs4/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS4",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs4/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS4",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs4/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS4",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs4/"
+  },
+  {
+    "id": "PGS 5",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS5",
+    "title": "PGS 5",
+    "text": "PGS 5 Stoffendatabase SERIDA De SERIDA database (PGS5) wordt niet meer geactualiseerd. In overleg met VROM heeft RIVM besloten om deze database niet langer beschikbaar te stellen. Als alternatief kunt op de website van het RIVM het zoeksysteem gebruiken om de risico's van gevaarlijke stoffen op te zoeken. SERIDA was een stoffenbestand waarin onder andere de fysische en toxicologische kenmerken van een groot aantal gevaarlijke stoffen waren samengebracht. Een bedrijf of vergunningverlenende overheid kon deze gegevens gebruiken om vast te stellen of de eisen van het Besluit Risico’s zware ongevallen (BRZO) van toepassing waren. De SERIDA database werd ook aangeduid als deel 5 uit de Publicatiereeks Gevaarlijke Stoffen (PGS5). In de Staatscourant van 4 december 2007 is gepubliceerd dat de PGS5 is ingetrokken.",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs5/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS5",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs5/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS5",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs5/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS5",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs5/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS5",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs5/"
+  },
+  {
+    "id": "PGS 6",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS6",
+    "title": "PGS 6",
+    "text": "PGS 6 Aanwijzingen voor het toepassen van de Seveso-paragraaf in het Bal PGS 6 bevat aanwijzingen voor het toepassen van de Seveso-paragraaf in het Bal en toelichting op de regels zoals die in Seveso III en de daarmee verbonden Nederlandse wet- en regelgeving zijn vastgelegd en betrekking hebben op de verplichtingen voor Seveso-inrichtingen. PGS 6:2023 versie 1.0 (januari 2024) PGS 6:2023 versie 1.0 (januari 2024) is goedgekeurd door de PGS-stuurgroep en vastgesteld door het Bestuurlijk Omgevingsberaad (BOb). Het betreft een beperkte herziening van PGS 6:2021. De aanpassing van PGS 6:2021 had tot doel de stelselherziening van het Nederlandse omgevingsrecht door te voeren in de richtlijn. Na de oplevering van de PGS 6:2021 resteerden er een aantal inhoudelijke ontwikkelingen en nieuwe inzichten welke buiten de scope van die herziening vielen en in 2021 niet zijn meegenomen. Deze punten zijn in PGS 6:2023 versie 1.0 (januari 2024) alsnog verwerkt. PGS 6 heeft geen dwingend karakter. Dit houdt in dat een Seveso-inrichting ervoor kan kiezen om op een andere manier invulling te geven aan de gestelde eisen, onder de voorwaarde dat deze voldoet aan de wet- en regelgeving. Voor alle actuele informatie met betrekking tot de uitvoering kunt u terecht op http://brzoplus.nl . Meest actuele versie PGS 6:2023 versie 1.0 (januari 2024) Definitief Voorgaande publicaties 3 Inschrijven nieuwsbrief PGS 6 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 6 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs6/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS6",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs6/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS6",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs6/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS6",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs6/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS6",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs6/"
+  },
+  {
+    "id": "PGS 7",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS7",
+    "title": "PGS 7",
+    "text": "PGS 7 Vaste minerale anorganische meststoffen – Opslag Richtlijn voor de veilige opslag van vaste minerale anorganische meststoffen PGS 7 Nieuwe Stijl bevat maatregelen waarmee de risico's van opslag van vaste minerale anorganische meststoffen te beheersen zijn. PGS 7 Nieuwe Stijl versie 1.0 (februari 2022) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 7 Nieuwe Stijl versie 1.0 (februari 2022) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in april 2020 vastgestelde PGS 7 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Achtergrondinformatie Scheidingsafstanden A1 meststoffen Veiligheidsaspecten meststoffen Groep 4 DGM 20090130 Meest actuele versie PGS 7:2022 versie 1.0 (februari 2022) Definitief Overige recente versies PGS 7:2020 versie 0.2 (april 2020) Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 7 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 7 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Scheidingsafstanden A1 meststoffen",
+      "Veiligheidsaspecten meststoffen Groep 4 DGM 20090130",
+      "PGS 7:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs7/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS7",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Scheidingsafstanden A1 meststoffen Veiligheidsaspecten meststoffen Groep 4 DGM 20090130",
+    "items": [
+      "Scheidingsafstanden A1 meststoffen",
+      "Veiligheidsaspecten meststoffen Groep 4 DGM 20090130"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs7/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS7",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Scheidingsafstanden A1 meststoffen Veiligheidsaspecten meststoffen Groep 4 DGM 20090130",
+    "items": [
+      "Scheidingsafstanden A1 meststoffen",
+      "Veiligheidsaspecten meststoffen Groep 4 DGM 20090130"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs7/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS7",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs7/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS7",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs7/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS7",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs7/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS7",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs7/"
+  },
+  {
+    "id": "PGS 8",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS8",
+    "title": "PGS 8",
+    "text": "PGS 8 Organische peroxiden: Opslag Richtlijn voor het veilig opslaan van organische peroxiden PGS 8 Nieuwe Stijl bevat maatregelen waarmee de risico's van het opslaan van organische peroxiden te beheersen zijn. PGS 8 Nieuwe Stijl versie 1.0 (Augustus 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 8 Nieuwe Stijl versie 1.0 (Augustus 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in september 2020 vastgestelde PGS 8 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 8:2021 Versie 1.0 (Augustus 2021) Definitief Overige recente versies PGS 8:2020 versie 0.2 (april 2020) Voorgaande publicaties 5 Inschrijven nieuwsbrief PGS 8 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 8 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 8:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs8/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS8",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs8/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS8",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs8/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS8",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs8/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS8",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs8/"
+  },
+  {
+    "id": "PGS 9",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS9",
+    "title": "PGS 9",
+    "text": "PGS 9 Cryogene gassen – Opslag van 0,150 m3 – 100 m3 Richtlijn voor de veilige opslag van cryogene gassen PGS 9 Nieuwe Stijl bevat maatregelen waarmee de risico's van het opslaan van cryogene gassen te beheersen zijn. PGS 9 Nieuwe Stijl versie 1.0 (Augustus 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 9 Nieuwe Stijl versie 1.0 (Augustus 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in april 2020 vastgestelde PGS 9 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Achtergrondinformatie RIVM - Interne veiligheidsafstanden PGS 19 Meest actuele versie PGS 9:2021 Versie 1.0 (Augustus 2021) Definitief Overige recente versies PGS 9:2020 versie 0.2 (april 2020) Voorgaande publicaties 3 Inschrijven nieuwsbrief PGS 9 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 9 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "RIVM - Interne veiligheidsafstanden PGS 19",
+      "PGS 9:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs9/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS9",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie RIVM - Interne veiligheidsafstanden PGS 19",
+    "items": [
+      "RIVM - Interne veiligheidsafstanden PGS 19"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs9/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS9",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie RIVM - Interne veiligheidsafstanden PGS 19",
+    "items": [
+      "RIVM - Interne veiligheidsafstanden PGS 19"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs9/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS9",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs9/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS9",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs9/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS9",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs9/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS9",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs9/"
+  },
+  {
+    "id": "PGS 10",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS10",
+    "title": "PGS 10",
+    "text": "PGS 10 Vloeibare zwaveldioxide: opslag en gebruik De oorspronkelijke CPR 6 richtlijn is in 2005 zonder wijziging omgezet naar PGS 10. De publicatie gaat in op de gevaar eigenschappen van zwaveldioxide en geeft richtlijnen en eisen voor een veilige opslag en gebruik en het beperken van eventuele effecten. Meest actuele versie PGS 10:1983 versie 0.1 (2-2005) Inschrijven nieuwsbrief PGS 10 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 10 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs10/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS10",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs10/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS10",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs10/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS10",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs10/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS10",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs10/"
+  },
+  {
+    "id": "PGS 11",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS11",
+    "title": "PGS 11",
+    "text": "PGS 11 Chloor Opslag en gebruik Eind 2006 is PGS 11 ingetrokken, nadat het kabinet heeft geconcludeerd dat de chloorketen goed georganiseerd is en er geen aanvullende eisen en voorschriften nodig zijn. De betreffende bedrijven kunnen daarbij ook gebruik maken van documenten van de Europese brancheorganisatie van de chloorkali-industrie, Euro Chlor. Deze documenten zijn ook de grondslag voor Europese regels voor de chloorkali-industrie. Voorgaande publicaties 1 PGS 11:1983 (7-2005) Inschrijven nieuwsbrief PGS 11 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 11 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 11:1983 (7-2005)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs11/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS11",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs11/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS11",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs11/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS11",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs11/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS11",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs11/"
+  },
+  {
+    "id": "PGS 12",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS12",
+    "title": "PGS 12",
+    "text": "PGS 12 Ammoniak – Opslag en verlading Richtlijn voor het veilig opslaan en verladen van ammoniak PGS 12:2021 versie 1.0 (augustus 2021) bevat maatregelen waarmee de risico's van het opslaan en verladen van ammoniak te beheersen zijn. Dit is een interim PGS, een tussentijdse versie die invulling geeft aan de Omgevingswet zo lang PGS 12 Nieuwe Stijl nog niet gereed is. Op dit moment wordt PGS 12:2021 versie 1.0 (augustus 2021) aangewezen in de Omgevingswet. Deze versie is verouderd. Voor bijvoorbeeld nieuwe vergunningen kan dus niet zondermeer gebruik meer worden gemaakt van deze versie. Om deze reden wordt sinds maart 2023 gewerkt aan een herziening van PGS 12. De herziening van PGS 12:2021 versie 1.0 (augustus 2021) zal in 3 fasen tot stand komen, waarna er weer een volledig herziene PGS 12 beschikbaar zal zijn. De eerste fase richt zich uitsluitend op “Nieuwbouw van opslag voor en verlading van koude, vloeibare atmosferische ammoniak”. De tweede fase richt zich op \"Bestaande tanks en ombouw naar ammoniak tanks\". In de derde fase is de \"(kleinere) opslag van warme ammoniak\" herzien. De definitieve versie (0.3) van fase 1 van PGS 12 (nieuwbouw) is op 11 juli 2024 vastgesteld door het Bestuurlijk Omgevingsberaad (BOb), waarna deze versie op 17 juli 2024 is gepubliceerd. Hierna is fase 2 (bestaande bouw) afgerond en is dit onderdeel toegevoegd aan fase 1 in een nieuwe interne conceptversie fase 2. Fase 2 is niet apart vastgesteld en gepubliceerd. Omwille van de efficiency en snelheid is direct een doorstart gemaakt naar fase 3. Tijdens het uitwerken van fase 3 zijn tevens een aantal geconstateerde onvolkomenheden uit fase 1 hersteld. Een overzicht van deze wijzigingen zijn te vinden in bijlage H.1.1. In de laatste kolom staat beschreven of het een wijziging is ten opzichte van de originele PGS of ten opzichte van fase 1 en wat deze wijziging inhoudt. Fase 3 (opslag warme ammoniak onder druk) is afgerond en ook dit onderdeel is toegevoegd aan fase 1 en 2. Hiermee is PGS 12 in zijn geheel herzien waarmee er weer één PGS 12 is, die de huidige PGS 12:2021 versie 1.0 (augustus 2021) zal vervangen. Het toevoegen van fase 2 en 3 aan fase 1 heeft geresulteerd in het hernummeren van maatregelen. De maatregelnummers in deze versie kunnen dus afwijken van de gepubliceerde fase 1 (PGS 12:2024 versie 0.3 fase 1 (juli 2024)). Sommige scenario’s, doelen of maatregelen zijn alleen relevant voor atmosferische opslag. Deze zijn dan aangeduid met (A) achter de titel. Sommige scenario’s, doelen of maatregelen zijn alleen relevant voor drukopslag. Deze zijn dan aangeduid met (D) achter de titel. Wanneer een scenario, doel of maatregel relevant is voor zowel atmosferische opslag als drukopslag is dit aangeduid met (A+D) achter de titel. Installatieonderdelen of activiteiten die zowel bij atmosferische opslag als bij drukopslag kunnen voorkomen (zoals laden, lossen, warmtewisselaar, flashvat, appendages en pakkingen, etc.) zijn ook aangeduid met (A+D). Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Actualisatie planning 25 20 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties Meest actuele versie PGS 12:2024 versie 0.4 (december 2024) Concept Overige recente versies PGS 12:2024 versie 0.3 fase 1 (juli 2024) Definitief PGS 12:2024 versie 0.2 fase 1 (juni 2024) Definitief concept PGS 12:2023 versie 0.1 fase 1 (december 2023) Concept PGS 12:2021 versie 1.0 (augustus 2021) – interim PGS PGS 12:2020 versie 0.2 (april 2020) – interim PGS Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 12 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 12 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Planning",
+      "Huidige herziening",
+      "PGS 12:2024 versie 0.3 fase 1 (juli 2024) Definitief",
+      "PGS 12:2024 versie 0.2 fase 1 (juni 2024) Definitief concept",
+      "PGS 12:2023 versie 0.1 fase 1 (december 2023) Concept",
+      "PGS 12:2021 versie 1.0 (augustus 2021) – interim PGS",
+      "PGS 12:2020 versie 0.2 (april 2020) – interim PGS"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs12/"
+  },
+  {
+    "id": "Actualisatie planning",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS12",
+    "title": "Actualisatie planning",
+    "text": "Actualisatie planning 25 20 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties",
+    "items": [
+      "Planning",
+      "Huidige herziening"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs12/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS12",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs12/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS12",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs12/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS12",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs12/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS12",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs12/"
+  },
+  {
+    "id": "PGS 13",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS13",
+    "title": "PGS 13",
+    "text": "PGS 13 Ammoniak als koudemiddel in koelinstallaties en warmtepompen Richtlijn voor veilig gebruik van ammoniak als koudemiddel in koelinstallaties en warmtepompen PGS 13 Nieuwe Stijl bevat maatregelen waarmee de risico's van ammoniak als koudemiddel in koelinstallaties en warmtepompen te beheersen zijn. PGS 13 Nieuwe Stijl versie 1.0 (september 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 13 Nieuwe Stijl versie 1.0 (September 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in april 2020 vastgestelde PGS 13 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 13:2021 versie 1.0 (september 2021) Overige recente versies PGS 13:2020 versie 0.2 (april 2020) Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 13 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 13 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 13:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs13/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS13",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs13/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS13",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs13/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS13",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs13/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS13",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs13/"
+  },
+  {
+    "id": "PGS 14",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS14",
+    "title": "PGS 14",
+    "text": "PGS 14 Handboek brandbestrijdingssystemen (te hanteren naast PGS 15: Opslag van verpakte gevaarlijke stoffen) Deze publicatie heeft tot doel de grote hoeveelheid aan kenmerken van de verschillende brandbestrijdingssystemen toegankelijker en beter hanteerbaar te maken, met name de gedeelten met betrekking tot blusinstallaties. Tevens wordt duidelijk gemaakt welke keuringsnormen het beste kunnen worden gehanteerd. Dit handboek dient derhalve naast de PGS 15 te worden gehanteerd, en stelt zowel diegene die de eisen stelt en goedkeuring moet verlenen als degene die verantwoordelijk is voor het ontwerp beter in staat de juiste keuzes te maken, die uiteindelijk moeten leiden tot een optimale brandbeveiliging van elk specifiek object. Actualisatie planning 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties Meest actuele versie Handreiking bij de toepassing van opslag van gevaarlijke stoffen volgens PGS 15 Voorgaande publicaties 1 Inschrijven nieuwsbrief PGS 14 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 14 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Planning",
+      "Huidige herziening"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs14/"
+  },
+  {
+    "id": "Actualisatie planning",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS14",
+    "title": "Actualisatie planning",
+    "text": "Actualisatie planning 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties",
+    "items": [
+      "Planning",
+      "Huidige herziening"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs14/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS14",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs14/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS14",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs14/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS14",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs14/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS14",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs14/"
+  },
+  {
+    "id": "PGS 15",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS15",
+    "title": "PGS 15",
+    "text": "PGS 15 Opslag van verpakte gevaarlijke stoffen Richtlijn voor de opslag en tijdelijke opslag met betrekking tot brandveiligheid, arbeidsveiligheid en milieuveiligheid PGS 15 Nieuwe Stijl bevat maatregelen waarmee de risico's van de opslag van gevaarlijke stoffen in verpakking te beheersen zijn. De definitieve versie PGS 15:2025 versie 1.0 (januari 2025) is vastgesteld door het Bestuurlijk Omgevingsberaad (BOb). PGS 15:2025 versie 1.0 (januari 2025) is een herziening van de interim versie PGS 15:2021 versie 1.0 (augustus 2021) en geeft invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Op de website van het IPLO vindt u ook de Handleiding PGS 15 - versie 2021 . De memo van het RIVM waar in de definitielijst van PGS 15:2025 versie 1.0 (januari 2025) naar wordt verwezen vindt u hier . Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Achtergrondinformatie MEMO Team PGS 15 Definities van brandbare stoffen, onbrandbare stoffen en (niet-)brandonderhoudende stoffen in het kader van de richtlijn PGS 15 Lijst met wijzigingen concept PGS 15 versie 0.1 Deze lijst geeft in hoofdlijnen de veranderingen in concept PGS 15 versie 0.1 ten opzichte van de versie uit 2011. Memo RIVM brandbare stoffen PGS 15 Hier vindt u de memo van het RIVM: Brandbare vaste stoffen, onbrandbare stoffen en nietbrandonderhoudende stoffen in het kader van de richtlijn PGS 15 Standpunt Arbeidsinspectie explosieveiligheid betreffende UN-gekeurde verpakkingen Lijst met wijzigingen PGS 15:2011 Deze lijst geeft in hoofdlijnen de veranderingen in PGS 15:2011 ten opzichte van de versie uit 2005. Relevante publicaties en websites Regeling vervoer over land van gevaarlijke stoffen (incl. vertaling ADR) LAT risicobeheersing bedrijven (BRZO) Labelling van chemicalien volgens GHS Integrale Brandveiligheid Bouwwerken (IBB) Werkwijzer bedrijfsbrandweren Arboportaal: Kankerverwekkende en mutagene stoffen (CMR-stoffen) Meest actuele versie PGS 15:2025 versie 1.0 (januari 2025) Definitief Overige recente versies PGS 15:2024 versie 0.2 (december 2024) Definitief concept PGS 15:2023 versie 0.1 (NOVEMBER 2023) Concept PGS 15:2021 versie 1.0 (augustus 2021) – interim PGS PGS 15:2020 versie 0.2 (april 2020) – interim PGS Voorgaande publicaties 14 Gerelateerde handreikingen Handreiking Uitgangspuntendocument voor brandblussystemen Inschrijven nieuwsbrief PGS 15 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 15 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "MEMO Team PGS 15 Definities van brandbare stoffen, onbrandbare stoffen en (niet-)brandonderhoudende stoffen in het kader van de richtlijn PGS 15",
+      "Lijst met wijzigingen concept PGS 15 versie 0.1 Deze lijst geeft in hoofdlijnen de veranderingen in concept PGS 15 versie 0.1 ten opzichte van de versie uit 2011.",
+      "Memo RIVM brandbare stoffen PGS 15 Hier vindt u de memo van het RIVM: Brandbare vaste stoffen, onbrandbare stoffen en nietbrandonderhoudende stoffen in het kader van de richtlijn PGS 15",
+      "Standpunt Arbeidsinspectie explosieveiligheid betreffende UN-gekeurde verpakkingen",
+      "Lijst met wijzigingen PGS 15:2011 Deze lijst geeft in hoofdlijnen de veranderingen in PGS 15:2011 ten opzichte van de versie uit 2005.",
+      "Regeling vervoer over land van gevaarlijke stoffen (incl. vertaling ADR)",
+      "LAT risicobeheersing bedrijven (BRZO)",
+      "Labelling van chemicalien volgens GHS",
+      "Integrale Brandveiligheid Bouwwerken (IBB)",
+      "Werkwijzer bedrijfsbrandweren",
+      "Arboportaal: Kankerverwekkende en mutagene stoffen (CMR-stoffen)",
+      "PGS 15:2024 versie 0.2 (december 2024) Definitief concept",
+      "PGS 15:2023 versie 0.1 (NOVEMBER 2023) Concept",
+      "PGS 15:2021 versie 1.0 (augustus 2021) – interim PGS",
+      "PGS 15:2020 versie 0.2 (april 2020) – interim PGS",
+      "Handreiking Uitgangspuntendocument voor brandblussystemen"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs15/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS15",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie MEMO Team PGS 15 Definities van brandbare stoffen, onbrandbare stoffen en (niet-)brandonderhoudende stoffen in het kader van de richtlijn PGS 15 Lijst met wijzigingen concept PGS 15 versie 0.1 Deze lijst geeft in hoofdlijnen de veranderingen in concept PGS 15 versie 0.1 ten opzichte van de versie uit 2011. Memo RIVM brandbare stoffen PGS 15 Hier vindt u de memo van het RIVM: Brandbare vaste stoffen, onbrandbare stoffen en nietbrandonderhoudende stoffen in het kader van de richtlijn PGS 15 Standpunt Arbeidsinspectie explosieveiligheid betreffende UN-gekeurde verpakkingen Lijst met wijzigingen PGS 15:2011 Deze lijst geeft in hoofdlijnen de veranderingen in PGS 15:2011 ten opzichte van de versie uit 2005. Relevante publicaties en websites Regeling vervoer over land van gevaarlijke stoffen (incl. vertaling ADR) LAT risicobeheersing bedrijven (BRZO) Labelling van chemicalien volgens GHS Integrale Brandveiligheid Bouwwerken (IBB) Werkwijzer bedrijfsbrandweren Arboportaal: Kankerverwekkende en mutagene stoffen (CMR-stoffen)",
+    "items": [
+      "MEMO Team PGS 15 Definities van brandbare stoffen, onbrandbare stoffen en (niet-)brandonderhoudende stoffen in het kader van de richtlijn PGS 15",
+      "Lijst met wijzigingen concept PGS 15 versie 0.1 Deze lijst geeft in hoofdlijnen de veranderingen in concept PGS 15 versie 0.1 ten opzichte van de versie uit 2011.",
+      "Memo RIVM brandbare stoffen PGS 15 Hier vindt u de memo van het RIVM: Brandbare vaste stoffen, onbrandbare stoffen en nietbrandonderhoudende stoffen in het kader van de richtlijn PGS 15",
+      "Standpunt Arbeidsinspectie explosieveiligheid betreffende UN-gekeurde verpakkingen",
+      "Lijst met wijzigingen PGS 15:2011 Deze lijst geeft in hoofdlijnen de veranderingen in PGS 15:2011 ten opzichte van de versie uit 2005.",
+      "Regeling vervoer over land van gevaarlijke stoffen (incl. vertaling ADR)",
+      "LAT risicobeheersing bedrijven (BRZO)",
+      "Labelling van chemicalien volgens GHS",
+      "Integrale Brandveiligheid Bouwwerken (IBB)",
+      "Werkwijzer bedrijfsbrandweren",
+      "Arboportaal: Kankerverwekkende en mutagene stoffen (CMR-stoffen)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs15/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS15",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie MEMO Team PGS 15 Definities van brandbare stoffen, onbrandbare stoffen en (niet-)brandonderhoudende stoffen in het kader van de richtlijn PGS 15 Lijst met wijzigingen concept PGS 15 versie 0.1 Deze lijst geeft in hoofdlijnen de veranderingen in concept PGS 15 versie 0.1 ten opzichte van de versie uit 2011. Memo RIVM brandbare stoffen PGS 15 Hier vindt u de memo van het RIVM: Brandbare vaste stoffen, onbrandbare stoffen en nietbrandonderhoudende stoffen in het kader van de richtlijn PGS 15 Standpunt Arbeidsinspectie explosieveiligheid betreffende UN-gekeurde verpakkingen Lijst met wijzigingen PGS 15:2011 Deze lijst geeft in hoofdlijnen de veranderingen in PGS 15:2011 ten opzichte van de versie uit 2005.",
+    "items": [
+      "MEMO Team PGS 15 Definities van brandbare stoffen, onbrandbare stoffen en (niet-)brandonderhoudende stoffen in het kader van de richtlijn PGS 15",
+      "Lijst met wijzigingen concept PGS 15 versie 0.1 Deze lijst geeft in hoofdlijnen de veranderingen in concept PGS 15 versie 0.1 ten opzichte van de versie uit 2011.",
+      "Memo RIVM brandbare stoffen PGS 15 Hier vindt u de memo van het RIVM: Brandbare vaste stoffen, onbrandbare stoffen en nietbrandonderhoudende stoffen in het kader van de richtlijn PGS 15",
+      "Standpunt Arbeidsinspectie explosieveiligheid betreffende UN-gekeurde verpakkingen",
+      "Lijst met wijzigingen PGS 15:2011 Deze lijst geeft in hoofdlijnen de veranderingen in PGS 15:2011 ten opzichte van de versie uit 2005."
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs15/"
+  },
+  {
+    "id": "Relevante publicaties en websites",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS15",
+    "title": "Relevante publicaties en websites",
+    "text": "Relevante publicaties en websites Regeling vervoer over land van gevaarlijke stoffen (incl. vertaling ADR) LAT risicobeheersing bedrijven (BRZO) Labelling van chemicalien volgens GHS Integrale Brandveiligheid Bouwwerken (IBB) Werkwijzer bedrijfsbrandweren Arboportaal: Kankerverwekkende en mutagene stoffen (CMR-stoffen)",
+    "items": [
+      "Regeling vervoer over land van gevaarlijke stoffen (incl. vertaling ADR)",
+      "LAT risicobeheersing bedrijven (BRZO)",
+      "Labelling van chemicalien volgens GHS",
+      "Integrale Brandveiligheid Bouwwerken (IBB)",
+      "Werkwijzer bedrijfsbrandweren",
+      "Arboportaal: Kankerverwekkende en mutagene stoffen (CMR-stoffen)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs15/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS15",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs15/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS15",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs15/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS15",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs15/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS15",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs15/"
+  },
+  {
+    "id": "PGS 16",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS16",
+    "title": "PGS 16",
+    "text": "PGS 16 LPG: Afleverinstallaties, vulinstallaties en skid-installaties Richtlijn voor het veilig opslaan en afleveren van LPG en het veilig vullen van gasflessen en ballonvaarttanks, ingebouwde reservoirs en wisselreservoirs met vulinstallaties PGS 16 Nieuwe Stijl bevat maatregelen waarmee de risico's van het opslaan en afleveren van LPG en het vullen van gasflessen en ballonvaarttanks, ingebouwde reservoirs en wisselreservoirs met vulinstallaties te beheersen zijn. Het toepassingsgebied van de voormalige PGS 23 is opgenomen in PGS 16 Nieuwe Stijl, waarmee PGS 23 is komen te vervallen. PGS 16 Nieuwe Stijl versie 1.0 (Augustus 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 16 Nieuwe Stijl versie 1.0 (Augustus 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in april 2020 vastgestelde PGS 16 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 16:2021 versie 1.0 (augustus 2021) Definitief Overige recente versies PGS 16:2020 versie 0.2 (april 2020) Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 16 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 16 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 16:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs16/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS16",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs16/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS16",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs16/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS16",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs16/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS16",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs16/"
+  },
+  {
+    "id": "PGS 17",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS17",
+    "title": "PGS 17",
+    "text": "PGS 17 LPG-tankwagens De oorspronkelijke CPR 8-2 richtlijn is in 2005 zonder wijziging omgezet in PGS 17. Deze publicatie gaat in op de gevaaraspecten van LPG en voorschriften voor een veilige uitvoering van de tankwagen en een geschikte bedrijfsvoering. De inhoud van de huidige publicatie is verouderd als gevolg van gewijzigde wet- en regelgeving en inzichten rond de stand der techniek. Meest actuele versie PGS17: 1984 versie 1.0 (juli-2005) Definitief Inschrijven nieuwsbrief PGS 17 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 17 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs17/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS17",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs17/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS17",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs17/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS17",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs17/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS17",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs17/"
+  },
+  {
+    "id": "PGS 18",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS18",
+    "title": "PGS 18",
+    "text": "PGS 18 LPG: Depots Butaan, propaan en hun mengsels In deze richtlijn wordt ingegaan op technische en op organisatorische maatregelen ten aanzien van LPG-depots. Brand en ontploffing vormen een wezenlijk gevaar van de opslag en overslag van LPG. Wanneer het onder druk staande product door defecten in de installatie ontsnapt, kan het met lucht gemengd, een explosief gasmengsel vormen dat door zeer kleine energiehoeveelheden kan worden ontstoken. Naarmate grotere hoeveelheden LPG zijn ontsnapt, worden de gevolgen van een mogelijk daarop volgende brand of explosie ernstiger. Deze richtlijn geeft eisen aan de inrichting, het ontwerp, de constructie, de bedrijfsvoering, het onderhoud en de reparatie van een depot. De oorspronkelijke CPR 8-3 richtlijn is zonder wijziging omgezet in PGS 18:2005. Achtergrondinformatie RIVM - Interne veiligheidsafstanden PGS 19 Meest actuele versie PGS 18:2013 versie 1.0 (dec 2013) Definitief Voorgaande publicaties 1 Inschrijven nieuwsbrief PGS 18 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 18 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "RIVM - Interne veiligheidsafstanden PGS 19"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs18/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS18",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie RIVM - Interne veiligheidsafstanden PGS 19",
+    "items": [
+      "RIVM - Interne veiligheidsafstanden PGS 19"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs18/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS18",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie RIVM - Interne veiligheidsafstanden PGS 19",
+    "items": [
+      "RIVM - Interne veiligheidsafstanden PGS 19"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs18/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS18",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs18/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS18",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs18/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS18",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs18/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS18",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs18/"
+  },
+  {
+    "id": "PGS 19",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS19",
+    "title": "PGS 19",
+    "text": "PGS 19 Propaan – Opslag Richtlijn voor de veilige opslag van propaan, propeen en butaan en mengsels daarvan PGS 19 Nieuwe Stijl bevat maatregelen waarmee de risico's van de opslag van propaan, butaan en mengsels van propaan en butaan te beheersen zijn. PGS 19 Nieuwe Stijl versie 1.0 (september 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 19 Nieuwe Stijl versie 1.0 (september 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in september 2020 vastgestelde PGS 19 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen. Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Achtergrondinformatie RIVM - Interne Veiligheidsafstanden PGS 19 Meest actuele versie PGS19:2021 Versie 1.0 (september 2021) Definitief Overige recente versies PGS 19:2020 versie 0.2 (april 2020) Voorgaande publicaties 3 Inschrijven nieuwsbrief PGS 19 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 19 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "RIVM - Interne Veiligheidsafstanden PGS 19",
+      "PGS 19:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs19/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS19",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie RIVM - Interne Veiligheidsafstanden PGS 19",
+    "items": [
+      "RIVM - Interne Veiligheidsafstanden PGS 19"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs19/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS19",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie RIVM - Interne Veiligheidsafstanden PGS 19",
+    "items": [
+      "RIVM - Interne Veiligheidsafstanden PGS 19"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs19/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS19",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs19/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS19",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs19/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS19",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs19/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS19",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs19/"
+  },
+  {
+    "id": "PGS 20",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS20",
+    "title": "PGS 20",
+    "text": "PGS 20 Propaan (5 m3) Opslag van propaan en butaan in stationaire bovengrondse reservoirs met een inhoud groter dan 0,15 m3 en ten hoogste 5 m3 Deze publicatie (eerder CPR 11-2) is ingetrokken en opgenomen in de laatste versie van PGS 19 [PGS19: 2008 versie 0.1 (2-2009)]. Voorgaande publicaties 1 PGS 20:1986 (7-2005) Inschrijven nieuwsbrief PGS 20 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 20 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 20:1986 (7-2005)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs20/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS20",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs20/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS20",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs20/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS20",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs20/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS20",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs20/"
+  },
+  {
+    "id": "PGS 21",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS21",
+    "title": "PGS 21",
+    "text": "PGS 21 Propaan Opslag van propaan en butaan in stationaire bovengrondse-, ondergrondse- en terpreservoirs met een inhoud groter dan 5 m3 en ten hoogste 150 m3 Deze publicatie (eerder CPR 11-3) is ingetrokken en opgenomen in de laatste versie van PGS 19. Voorgaande publicaties 1 PGS 21:1989 (7-2005) Inschrijven nieuwsbrief PGS 21 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 21 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 21:1989 (7-2005)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs21/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS21",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs21/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS21",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs21/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS21",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs21/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS21",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs21/"
+  },
+  {
+    "id": "PGS 22",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS22",
+    "title": "PGS 22",
+    "text": "PGS 22 Toepassing van propaan Richtlijn voor de brandveilige, arbeidsveilige en milieuveilige toepassing van propaan Deze richtlijn heeft betrekking op bedrijfsmatige toepassing van propaan in diverse situaties, in veel gevallen buiten inrichtingen in de zin van de Wet milieubeheer. De eisen uit deze richtlijn worden daarom vaak middels de arbeidsomstandighedenwetgeving, de APV of anderszins op een activiteit van toepassing verklaard. De publicatie volgt voornamelijk een benadering waarbij het in stand houden van de technische integriteit van de installatie vooropstaat, waar verantwoordelijkheden in de keten zijn vastgelegd en waarbij de dagelijkse veilige bedrijfsvoering is gewaarborgd middels een duidelijk stelsel van middelvoorschriften. Meest actuele versie PGS 22:2008 versie 1.10 (september 2008) Definitief Voorgaande publicaties 1 Inschrijven nieuwsbrief PGS 22 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 22 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs22/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS22",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs22/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS22",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs22/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS22",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs22/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS22",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs22/"
+  },
+  {
+    "id": "PGS 23",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS23",
+    "title": "PGS 23",
+    "text": "PGS 23 LPG: Vulstations voor flessen en ballonvaarttanks Butaan, propaan en hun mengsels Het toepassingsgebied van de voormalige PGS 23 is opgenomen in PGS 16 Nieuwe Stijl, waarmee PGS 23 is komen te vervallen. Voorgaande publicaties 2 PGS 23: 2013 versie 1.0 (dec 2013) PGS23:1994 versie 0.1 (2-2009) Inschrijven nieuwsbrief PGS 23 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 23 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 23: 2013 versie 1.0 (dec 2013)",
+      "PGS23:1994 versie 0.1 (2-2009)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs23/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS23",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs23/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS23",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs23/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS23",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs23/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS23",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs23/"
+  },
+  {
+    "id": "PGS 24",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS24",
+    "title": "PGS 24",
+    "text": "PGS 24 Propaan Vulstations voor spuitbussen met propaan, butaan en dimethyl-ether als drijfgas De oorspronkelijke CPR 11-6 richtlijn uit 1997 is in 2005 zonder wijziging omgezet in PGS 24. De richtlijn is echter sterk verouderd en voldoet niet aan de laatste stand der techniek. Op basis van rapporten en discussies is besloten om PGS 24 niet langer te actualiseren en de versie uit 1997 in te trekken. Het belangrijkste argument hiervoor is het geringe aantal bedrijven dat binnen het toepassingsgebied van PGS 24 valt. De richtlijn was van toepassing op de gehele inrichting voor het vullen van spuitbussen met als drijfgas butaan, propaan en andere brandbare drijfgassen. Hieronder werd ook gerekend de vulplaats bij het kleinschalig vullen van spuitbussen ten behoeve van verf. De ingetrokken versie PGS 24:1997 blijft beschikbaar op de website als naslag voor bestaande vergunningen. Voorgaande publicaties 1 PGS24:1997 versie 0.1 (2-2009) Inschrijven nieuwsbrief PGS 24 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 24 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS24:1997 versie 0.1 (2-2009)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs24/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS24",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs24/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS24",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs24/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS24",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs24/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS24",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs24/"
+  },
+  {
+    "id": "PGS 25",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS25",
+    "title": "PGS 25",
+    "text": "PGS 25 Aardgas-afleverinstallaties voor motorvoertuigen Richtlijn voor de arbeidsveilige, milieuveilige en brandveilige toepassing van installaties voor het afleveren van aardgas aan motorvoertuigen PGS 25 beschrijft de maatregelen die moeten worden genomen voor de veilige toepassing van installaties voor het afleveren van aardgas en biogas aan voertuigen, vaartuigen en werktuigen. Deze richtlijn gaat zowel over aardgas- als biogasafleverinstallaties. Hieronder volgt een korte toelichting op de meest recente versies die op deze website te vinden zijn. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. PGS 25:2022 versie 1.0 (maart 2023) PGS 25:2022 versie 1.0 (maart 2023) is vastgesteld door de PGS-stuurgroep en goedgekeurd door het Bestuurlijk Omgevingsberaad (BOb). PGS 25 interim versie 1.0 Een interim PGS is een tussentijdse versie die invulling geeft aan de Omgevingswet zo lang PGS 25 Nieuwe Stijl nog niet gereed is. PGS 25 interim versie 1.0 is gelijk aan versie 0.2 die in september 2020 is vastgesteld door het Bestuurlijk Omgevingsberaad (BOb) en invulling geeft aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Het versienummer is aangepast vanwege de invoering van de Omgevingswet en de verwijzingen die daarin zijn opgenomen. Meest actuele versie PGS 25:2022 versie 1.0 (maart 2023) Definitief Overige recente versies PGS 25:2021 versie 1.0 (augustus 2021) – interim PGS Definitief PGS 25:2020 versie 0.2 (april 2020) – interim PGS Voorgaande publicaties 4 Inschrijven nieuwsbrief PGS 25 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 25 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 25:2021 versie 1.0 (augustus 2021) – interim PGS Definitief",
+      "PGS 25:2020 versie 0.2 (april 2020) – interim PGS"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs25/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS25",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs25/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS25",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs25/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS25",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs25/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS25",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs25/"
+  },
+  {
+    "id": "PGS 26",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS26",
+    "title": "PGS 26",
+    "text": "PGS 26 CNG en LNG Richtlijn voor het veilig bedrijfsmatig stallen, onderhouden en repareren van motorvoertuigen PGS 26 Nieuwe Stijl bevat maatregelen waarmee de risico's van het bedrijfsmatig stallen, onderhouden en repareren van motorvoertuigen voorzien van een CNG- en/of LNG-installatie te beheersen zijn. PGS 26 Nieuwe Stijl versie 1.0 (augustus 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 26 Nieuwe Stijl versie 1.0 (augustus 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in april 2020 vastgestelde PGS 26 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 26:2021 versie 1.0 (augustus 2021) Definitief Overige recente versies PGS 26:2020 versie 0.2 (april 2020) Voorgaande publicaties 1 Inschrijven nieuwsbrief PGS 26 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 26 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 26:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs26/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS26",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs26/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS26",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs26/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS26",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs26/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS26",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs26/"
+  },
+  {
+    "id": "PGS 27",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS27",
+    "title": "PGS 27",
+    "text": "PGS 27 Gecomprimeerd aardgas Installaties voor het inpandig afleveren aan motorvoertuigen In oktober 2009 is PGS 27 opgenomen in PGS 25. Vanaf die datum geeft PGS 25:2009 (10-2009) de meest recente stand der techniek weer. Voorgaande publicaties 1 PGS 27: 1999 (6-2005) Inschrijven nieuwsbrief PGS 27 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 27 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 27: 1999 (6-2005)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs27/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS27",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs27/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS27",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs27/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS27",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs27/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS27",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs27/"
+  },
+  {
+    "id": "PGS 28",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS28",
+    "title": "PGS 28",
+    "text": "PGS 28 Vloeibare brandstoffen in ondergrondse installaties en aflevertoestellen Richtlijn voor het veilig opslaan en afleveren van vloeibare brandstoffen in/vanuit ondergrondse tanks en voor het veilig verwijderen van ondergrondse opslagtanks Deze PGS 28 Nieuwe Stijl bevat maatregelen waarmee de risico's van de opslag en aflevering van vloeibare brandstoffen in/vanuit ondergrondse tanks en de risico’s van het verwijderen van ondergrondse opslagtanks te beheersen zijn. PGS 28 Nieuwe Stijl versie 0.3 (juni 2021) is vervangen door PGS 28 Nieuwe Stijl 1.0 (augustus 2021). Deze versies zijn gelijk aan elkaar. Het versienummer is aangepast vanwege de invoering van de Omgevingswet en de verwijzingen die daarin zijn opgenomen. PGS 28 Nieuwe Stijl 1.0 (augustus 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 28 Nieuwe Stijl versie 1.0 (augustus 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in september 2020 vastgestelde PGS 28 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 28:2021 versie 1.0 (augustus 2021) Definitief Overige recente versies PGS 28:2020 versie 0.2 (april 2020) Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 28 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 28 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 28:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs28/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS28",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs28/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS28",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs28/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS28",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs28/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS28",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs28/"
+  },
+  {
+    "id": "PGS 29",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS29",
+    "title": "PGS 29",
+    "text": "PGS 29 Brandbare vloeistoffen – Opslag Richtlijn voor de veilige bovengrondse opslag van brandbare vloeistoffen in verticale cilindrische tanks PGS 29 ‘Nieuwe Stijl’ bevat maatregelen waarmee de risico's van de bovengrondse opslag van brandbare vloeistoffen in verticale cilindrische tanks te beheersen zijn. Hieronder volgt een korte toelichting op de meest recente versies die op deze website te vinden zijn. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. PGS 29:2022 versie 1.0 (maart 2023) PGS 29:2022 versie 1.0 (maart 2023) is goedgekeurd door het BOb (Bestuurlijk Omgevingsberaad) op 29 maart 2023. Inhoudelijk is deze versie gelijk aan PGS 29:2022 versie 0.2 (november 2022). PGS 29:2022 versie 0.2 (november 2022) (conceptversie) In PGS 29:2022 versie 0.2 (november 2022) is een fout in maatregel M133 hersteld. In de vorige versie (PGS 29:2022 versie 0.1 (juli 2022) was een aantal regels tekst weggevallen. PGS 29:2022 versie 0.2 (november 2022) is goedgekeurd door de PGS-stuurgroep op 1 november 2022. PGS 29:2022 versie 0.1 (juli 2022) (conceptversie) Deze conceptversie is de opvolger van PGS 29:2021 versie 1.1. PGS 29:2021 versie 1.1 (december 2021) De tekst van par 7.6.6 van PGS 29:2021 versie 1.0 (augustus 2021) luidt: ‘De overheid is van mening dat de kwaliteit van dit onafhankelijk toezicht moet worden geborgd door accreditatie/certificatie. Hiervoor zal de wet moeten worden aangepast’. In deze 1.1 versie is deze tekst vervangen door: ‘De overheid is van mening dat de kwaliteit van dit onafhankelijk toezicht moet worden geborgd door accreditatie/certificatie. Dit vraagt een wettelijke regeling. In dat verband is het ministerie van SZW voornemens om het WBDA 2016 uit te breiden naar PGS 29 tanks. Zolang het WBDA 2016 nog niet is aangepast accepteert de overheid dat ODI's niet zijn geaccrediteerd’. Dit is een subversie. Een subversie wordt niet in de Omgevingsregeling opgenomen. PGS 29:2021 versie 1.0 (augustus 2021) Met deze digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is deze digitale versie gelijk aan de PDF versie van PGS 29:2020 versie 0.2 (april 2020). PGS 29:2020 versie 0.2 (april 2020) Dit is een PDF. Inhoudelijk is deze versie gelijk aan PGS 29:2021 versie 1.0 (augustus 2021). Deze kan op eigen verantwoordelijkheid geprint worden. Houdt er dan wel rekening mee dat de nummering en lay-out kan afwijken van de digitale PGS. Achtergrondinformatie Nieuwsbericht BRZO+ Vervolg en implementatie Definitief rapport warmtestralingscontouren Brief Staatssecretaris implementatie PGS 29 periode 2016 tot 2022 IFV rapport Heat radation contours Rapportage werkgroep actualisatie met aanbevelingen n.a.v. Buncefield PGS 29 rapportage 2 augustus 2008 Meest actuele versie PGS 29:2022 versie 1.0 (maart 2023) Definitief Overige recente versies PGS 29:2022 versie 0.2 (november 2022) Concept PGS 29:2022 versie 0.1 (juli 2022) Concept PGS 29:2021 versie 1.1 (december 2021) Definitief PGS 29:2021 versie 1.0 (augustus 2021) Definitief PGS 29:2020 versie 0.2 (april 2020) Voorgaande publicaties 4 Overzicht van de PGS-richtlijnen: IPLO Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen. Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Zie de IPLO website Inschrijven nieuwsbrief PGS 29 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 29 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Nieuwsbericht BRZO+ Vervolg en implementatie",
+      "Definitief rapport warmtestralingscontouren",
+      "Brief Staatssecretaris implementatie PGS 29 periode 2016 tot 2022",
+      "IFV rapport Heat radation contours",
+      "Rapportage werkgroep actualisatie met aanbevelingen n.a.v. Buncefield PGS 29 rapportage 2 augustus 2008",
+      "PGS 29:2022 versie 0.2 (november 2022) Concept",
+      "PGS 29:2022 versie 0.1 (juli 2022) Concept",
+      "PGS 29:2021 versie 1.1 (december 2021) Definitief",
+      "PGS 29:2021 versie 1.0 (augustus 2021) Definitief",
+      "PGS 29:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs29/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS29",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Nieuwsbericht BRZO+ Vervolg en implementatie Definitief rapport warmtestralingscontouren Brief Staatssecretaris implementatie PGS 29 periode 2016 tot 2022 IFV rapport Heat radation contours Rapportage werkgroep actualisatie met aanbevelingen n.a.v. Buncefield PGS 29 rapportage 2 augustus 2008",
+    "items": [
+      "Nieuwsbericht BRZO+ Vervolg en implementatie",
+      "Definitief rapport warmtestralingscontouren",
+      "Brief Staatssecretaris implementatie PGS 29 periode 2016 tot 2022",
+      "IFV rapport Heat radation contours",
+      "Rapportage werkgroep actualisatie met aanbevelingen n.a.v. Buncefield PGS 29 rapportage 2 augustus 2008"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs29/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS29",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Nieuwsbericht BRZO+ Vervolg en implementatie Definitief rapport warmtestralingscontouren Brief Staatssecretaris implementatie PGS 29 periode 2016 tot 2022 IFV rapport Heat radation contours Rapportage werkgroep actualisatie met aanbevelingen n.a.v. Buncefield PGS 29 rapportage 2 augustus 2008",
+    "items": [
+      "Nieuwsbericht BRZO+ Vervolg en implementatie",
+      "Definitief rapport warmtestralingscontouren",
+      "Brief Staatssecretaris implementatie PGS 29 periode 2016 tot 2022",
+      "IFV rapport Heat radation contours",
+      "Rapportage werkgroep actualisatie met aanbevelingen n.a.v. Buncefield PGS 29 rapportage 2 augustus 2008"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs29/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS29",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs29/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS29",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs29/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS29",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs29/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS29",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs29/"
+  },
+  {
+    "id": "PGS 30",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS30",
+    "title": "PGS 30",
+    "text": "PGS 30 Vloeibare brandstoffen in bovengrondse tank- en afleverinstallaties Richtlijn voor het veilig vullen, opslaan, afleveren van vloeibare brandstoffen in en vanuit bovengrondse tanks en het verwijderen van bovengrondse opslagtanks Deze PGS 30 Nieuwe Stijl bevat maatregelen waarmee de risico's van vullen, opslaan, afleveren van vloeibare brandstoffen in en vanuit bovengrondse tanks en het verwijderen van bovengrondse opslagtanks te beheersen zijn. PGS 30 Nieuwe Stijl versie 1.0 (Augustus 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 30 Nieuwe Stijl versie 1.0 (Augustus 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in april 2020 vastgestelde PGS 30 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 30:2021 versie 1.0 (augustus 2021) Definitief Overige recente versies PGS 30:2020 versie 0.2 (april 2020) Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 30 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 30 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 30:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs30/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS30",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs30/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS30",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs30/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS30",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs30/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS30",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs30/"
+  },
+  {
+    "id": "PGS 31",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS31",
+    "title": "PGS 31",
+    "text": "PGS 31 Overige gevaarlijke vloeistoffen – Opslag in ondergrondse en bovengrondse tankinstallaties PGS 31 Nieuwe Stijl bevat maatregelen waarmee de risico's van de opslag van gevaarlijke vloeistoffen (anders dan verpakte chemicaliën en brandstoffen) in ondergrondse en bovengrondse tankinstallaties te beheersen zijn. PGS 31:2024 versie 1.0 (januari 2024) is goedgekeurd door de PGS-stuurgroep en vastgesteld door het Bestuurlijk Omgevingsberaad (BOb). PGS 31:2024 versie 1.0 vervangt PGS 31:2021 versie 1.0 die op dit moment nog is aangewezen in de Omgevingsregeling. Dit is een interim PGS, een tussentijdse versie die invulling geeft aan de Omgevingswet zo lang PGS 31:2024 versie 1.0 nog niet is aangewezen in de Omgevingswet. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 31:2024 versie 1.0 (januari 2024) Definitief Overige recente versies PGS 31:2021 versie 1.0 (augustus 2021) – interim PGS PGS 31:2020 versie 0.2 (april 2020) – interim PGS Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 31 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 31 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 31:2021 versie 1.0 (augustus 2021) – interim PGS",
+      "PGS 31:2020 versie 0.2 (april 2020) – interim PGS"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs31/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS31",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs31/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS31",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs31/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS31",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs31/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS31",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs31/"
+  },
+  {
+    "id": "PGS 32",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS32",
+    "title": "PGS 32",
+    "text": "PGS 32 Explosieven voor civiel gebruik: bovengrondse opslag PGS 32 is een richtlijn voor de veilige opslag van explosieven voor civiel gebruik, inclusief de bepaling van veiligheidsafstanden. Deze publicatie bevat de stand der techniek relevant voor de bovengrondse opslag van explosieven voor civiel gebruik volgens de meest recente inzichten. PGS 32 is een kennisdocument voor overheid en bedrijfsleven. Belangrijke punten waarop PGS 32 antwoord geeft, zijn: - eisen aan permanente opslag van explosieven met betrekking tot constructie, brandveiligheid en beveiliging; - voorbeelden van effectbeperkende maatregelen. Achtergrondinformatie RIVM onderzoek Effectiviteit effect beperkende maatregelen PGS 32 RIVM onderzoek Effectafstanden kleine hoeveelheden explosieven - PGS 32 Meest actuele versie PGS 32:2016 versie 1.0 Definitief Inschrijven nieuwsbrief PGS 32 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 32 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "RIVM onderzoek Effectiviteit effect beperkende maatregelen PGS 32",
+      "RIVM onderzoek Effectafstanden kleine hoeveelheden explosieven - PGS 32"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs32/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS32",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie RIVM onderzoek Effectiviteit effect beperkende maatregelen PGS 32 RIVM onderzoek Effectafstanden kleine hoeveelheden explosieven - PGS 32",
+    "items": [
+      "RIVM onderzoek Effectiviteit effect beperkende maatregelen PGS 32",
+      "RIVM onderzoek Effectafstanden kleine hoeveelheden explosieven - PGS 32"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs32/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS32",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie RIVM onderzoek Effectiviteit effect beperkende maatregelen PGS 32 RIVM onderzoek Effectafstanden kleine hoeveelheden explosieven - PGS 32",
+    "items": [
+      "RIVM onderzoek Effectiviteit effect beperkende maatregelen PGS 32",
+      "RIVM onderzoek Effectafstanden kleine hoeveelheden explosieven - PGS 32"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs32/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS32",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs32/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS32",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs32/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS32",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs32/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS32",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs32/"
+  },
+  {
+    "id": "PGS 33-1",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-1",
+    "title": "PGS 33-1",
+    "text": "PGS 33-1 Afleverinstallaties van vloeibaar aardgas (LNG) voor voertuigen en werktuigen Richtlijn voor de veilige aflevering aan voertuigen en werktuigen PGS 33-1 Nieuwe Stijl bevat maatregelen waarmee de risico's van het tanken van LNG te beheersen zijn. PGS 33-1 Nieuwe Stijl versie 1.0 (augustus 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. PGS 33-1 Nieuwe Stijl versie 0.3 (juni 2021) is vervangen door PGS 33-1 Nieuwe Stijl 1.0 (augustus 2021). Deze versies zijn gelijk aan elkaar. Inhoudelijk is PGS 33-1 Nieuwe Stijl versie 1.0 (augustus 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in september 2020 vastgestelde PGS 33-1 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigheden. Het versienummer is aangepast vanwege de invoering van de Omgevingswet en de verwijzingen die daarin zijn opgenomen. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Publicatie PGS 33-1:2021 versie 1.1 (mei 2022): In PGS 33-1:2021 versie 1.1 (mei 2022) zijn de toelichtingen van M33 ‘Voorzieningen afleverautomaat’ en van M61 ‘toegelaten afnemer’ aangepast. Deze aanpassingen staan weergegeven in bijlage I. De aangepaste versie, PGS 31-1:2021 versie 1.1 (mei 2022) heeft echter geen juridische status, omdat een sub-versie niet in de Omgevingsregeling (Or) wordt opgenomen. Achtergrondinformatie Rapport interne veiligheidsafstanden voor LNG-tankstations bij PGS 33 Dit rapport is bedoeld als achtergronddocument bij PGS 33 LNG Veiligheidsprogramma De kennis die wordt opgedaan in het LNG Veiligheidsprogramma zal worden gebruikt voor een toekomste actualisatie van PGS 33 Meest actuele versie PGS 33-1:2022 versie 1.1 (mei 2022) Definitief Overige recente versies PGS 33-1:2021 versie 1.0 (augustus 2021) PGS 33-1:2020 versie 0.2 (april 2020) Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 33-1 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 33-1 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Rapport interne veiligheidsafstanden voor LNG-tankstations bij PGS 33 Dit rapport is bedoeld als achtergronddocument bij PGS 33",
+      "LNG Veiligheidsprogramma De kennis die wordt opgedaan in het LNG Veiligheidsprogramma zal worden gebruikt voor een toekomste actualisatie van PGS 33",
+      "PGS 33-1:2021 versie 1.0 (augustus 2021)",
+      "PGS 33-1:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-1/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-1",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Rapport interne veiligheidsafstanden voor LNG-tankstations bij PGS 33 Dit rapport is bedoeld als achtergronddocument bij PGS 33 LNG Veiligheidsprogramma De kennis die wordt opgedaan in het LNG Veiligheidsprogramma zal worden gebruikt voor een toekomste actualisatie van PGS 33",
+    "items": [
+      "Rapport interne veiligheidsafstanden voor LNG-tankstations bij PGS 33 Dit rapport is bedoeld als achtergronddocument bij PGS 33",
+      "LNG Veiligheidsprogramma De kennis die wordt opgedaan in het LNG Veiligheidsprogramma zal worden gebruikt voor een toekomste actualisatie van PGS 33"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-1/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-1",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Rapport interne veiligheidsafstanden voor LNG-tankstations bij PGS 33 Dit rapport is bedoeld als achtergronddocument bij PGS 33 LNG Veiligheidsprogramma De kennis die wordt opgedaan in het LNG Veiligheidsprogramma zal worden gebruikt voor een toekomste actualisatie van PGS 33",
+    "items": [
+      "Rapport interne veiligheidsafstanden voor LNG-tankstations bij PGS 33 Dit rapport is bedoeld als achtergronddocument bij PGS 33",
+      "LNG Veiligheidsprogramma De kennis die wordt opgedaan in het LNG Veiligheidsprogramma zal worden gebruikt voor een toekomste actualisatie van PGS 33"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-1/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-1",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-1/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-1",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-1/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-1",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-1/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-1",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-1/"
+  },
+  {
+    "id": "PGS 33-2",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-2",
+    "title": "PGS 33-2",
+    "text": "PGS 33-2 Afleverinstallaties van vloeibaar aardgas (LNG) voor vaartuigen en drijvende werktuigen Richtlijn voor veilige aflevering aan vaartuigen en drijvende werktuigen PGS 33-2 Nieuwe Stijl beschrijft met welke maatregelen de risico's van het afleveren van LNG te beheersen zijn. PGS 33-2:2024 versie 1.0 (oktober 2024) is goedgekeurd door de PGS-stuurgroep vastgesteld door het Bestuurlijk Omgevingsberaad (BOb). PGS 33-2 is het tweede deel van de PGS 33-serie. PGS 33-1:2022 betreft het afleveren van LNG aan voertuigen en werktuigen. PGS 33-2:2024 versie 1.0 (oktober 2024) is een herziening van de interim versie PGS 33-2:2021 versie 1.0 (augustus 2021) die in september 2020 is vastgesteld door het Bestuurlijk Omgevingsberaad (BOb) en invulling geeft aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 33-2:2024 versie 1.0 (oktober 2024) Definitief Overige recente versies PGS 33-2:2024 versie 0.2 (juni 2024) Definitief concept PGS 33-2:2023 versie 0.1 (oktober 2023) PGS 33-2:2021 versie 1.0 (augustus 2021) – interim PGS PGS 33-2:2020 versie 0.2 (april 2020) – interim PGS Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 33-2 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 33-2 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 33-2:2024 versie 0.2 (juni 2024) Definitief concept",
+      "PGS 33-2:2023 versie 0.1 (oktober 2023)",
+      "PGS 33-2:2021 versie 1.0 (augustus 2021) – interim PGS",
+      "PGS 33-2:2020 versie 0.2 (april 2020) – interim PGS"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-2/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-2",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-2/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-2",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-2/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-2",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-2/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS33-2",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs33-2/"
+  },
+  {
+    "id": "PGS 34",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS34",
+    "title": "PGS 34",
+    "text": "PGS 34 Stationaire drukapparatuur met PS tot en met 0,5 bar Doelstelling van PGS 34 is het geven van voorschriften voor de borging van de technische integriteit van stationaire drukvaten, installatieleidingen, appendages, en stelsels daarvan, met een maximaal toelaatbare druk PS ≤ 0,5 bar, die aansluiten bij de eisen voor drukapparatuur met PS > 0,5 bar zoals vastgelegd in het Warenwetbesluit drukapparatuur (WBDA). Het betreft zowel nieuwbouw, ingebruikneming als de gebruiksfase. Meest actuele versie Inschrijven nieuwsbrief PGS 34 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 34 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs34/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS34",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs34/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS34",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs34/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS34",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs34/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS34",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs34/"
+  },
+  {
+    "id": "PGS 35",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS35",
+    "title": "PGS 35",
+    "text": "PGS 35 Waterstofinstallaties voor het afleveren van waterstof aan voertuigen en werktuigen Richtlijn voor de arbeidsveilige, milieuveilige en brandveilige toepassing van installaties voor het afleveren van waterstof aan voertuigen en werktuigen PGS 35 Nieuwe Stijl bevat maatregelen waarmee de risico's van het tanken van waterstof te beheersen zijn. PGS 35 Nieuwe Stijl versie 1.0 (Augustus 2021) is een digitale PGS. Met de digitale PGS is beoogd om PGS’en in Nieuwe Stijl beter doorzoekbaar en overzichtelijker te maken. Inhoudelijk is PGS 35 Nieuwe Stijl versie 1.0 (Augustus 2021) gelijk aan de door het Bestuurlijk Omgevingsberaad (BOb) in april 2020 vastgestelde PGS 35 versie 0.2 en geeft deze invulling aan wettelijke kaders op het gebied van omgeving en arbeidsomstandigenheden. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Als achtergronddocument vindt u op deze website het rapport van een door de PGS-stuurgroep ingestelde werkgroep. In het rapport staan de resultaten van een onderzoek naar de interne veiligheidsafstanden voor waterstoftankstations: Report: Internal Safety Distances for PGS 35 . Actualisatie planning 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties Achtergrondinformatie Report: Internal Safety Distances for PGS 35 Meest actuele versie PGS 35:2021 versie 1.0 (augustus 2021) Definitief Overige recente versies PGS 35:2020 versie 0.2 (april 2020) Voorgaande publicaties 2 Inschrijven nieuwsbrief PGS 35 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 35 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Planning",
+      "Huidige herziening",
+      "Report: Internal Safety Distances for PGS 35",
+      "PGS 35:2020 versie 0.2 (april 2020)"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs35/"
+  },
+  {
+    "id": "Actualisatie planning",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS35",
+    "title": "Actualisatie planning",
+    "text": "Actualisatie planning 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties Achtergrondinformatie Report: Internal Safety Distances for PGS 35",
+    "items": [
+      "Planning",
+      "Huidige herziening",
+      "Report: Internal Safety Distances for PGS 35"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs35/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS35",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Report: Internal Safety Distances for PGS 35",
+    "items": [
+      "Report: Internal Safety Distances for PGS 35"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs35/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS35",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs35/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS35",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs35/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS35",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs35/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS35",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs35/"
+  },
+  {
+    "id": "PGS 36",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS36",
+    "title": "PGS 36",
+    "text": "PGS 36 Waterstof Richtlijn voor het veilig bedrijfsmatig stallen, onderhouden en repareren van motorvoertuigen PGS 36 beschrijft de maatregelen die moeten worden genomen zodat op een veilige wijze bedrijfsmatig onderhoud aan de motorvoertuigen kan worden uitgevoerd en deze veilig worden gestald. De verwachting is dat, nu er meer waterstofstations worden gebouwd, er vaker voor motorvoertuigen op waterstof wordt gekozen. Deze motorvoertuigen moeten vervolgens ook op een veilige manier worden onderhouden en gestald. PGS 36 is een toevoeging aan PGS 26:2021 (t.b.v. brandstoffen LNG/CNG) en kan als een apart document worden toegepast voor motorvoertuigen op waterstof. Deze richtlijn gaat zowel over gasvormige als vloeibare waterstof. Nu de PGS is vastgesteld door de PGS-stuurgroep en goedgekeurd door het Bestuurlijk Omgevingsberaad (BOb), is de definitieve versie gepubliceerd. Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 36:2023 versie 1.0 (NOVEMBER 2023) Definitief Overige recente versies PGS 26-2:2022 versie 0.1 (SEPTEMBER 2022) Concept Inschrijven nieuwsbrief PGS 36 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 36 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 26-2:2022 versie 0.1 (SEPTEMBER 2022) Concept"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs36/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS36",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs36/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS36",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs36/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS36",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs36/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS36",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs36/"
+  },
+  {
+    "id": "PGS 37-1",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-1",
+    "title": "PGS 37-1",
+    "text": "PGS 37-1 Lithiumhoudende energiedragers: energieopslagsystemen (EOS) Richtlijn voor de veilige opslag van elektriciteit in energieopslagsystemen We maken steeds vaker gebruik van Energie Opslag Systemen met lithium batterijen. Om dit op een verantwoorde manier te doen, is in de Publicatiereeks Gevaarlijke Stoffen PGS 37-1 ontwikkeld door een team van experts vanuit bedrijfsleven en overheden. PGS 37-1 richt zich specifiek op de veiligheid van lithiumhoudende energiedragers en de juiste toepassing ervan in een Energie Opslag Systeem (EOS). PGS 37-1 zorgt voor uniforme maatregelen, wat essentieel is gezien de snelle opkomst van EOS’en in zowel de industrie als de woonomgeving. Richtlijn PGS 37-1 voor de veilige opslag van elektriciteit in Energie Opslag Systemen gaat over hoe je op een veilige manier met ‘grote batterijen’ moet omgaan. Deze batterijen bestaan uit gekoppelde lithiumbatterijen die worden gebruikt om energie op te slaan en vervolgens elektriciteit te leveren. Ze worden bijvoorbeeld door bewonersverenigingen gebruikt om zonne-energie op te slaan, terwijl energiemaatschappijen ze gebruiken om windenergie op te slaan of schommelingen in het elektriciteitsnet te stabiliseren. Vanwege het risico op een thermal runaway, een brand die zich voordoet in de energiedrager en niet zomaar te stoppen is, kunnen ze potentieel gevaarlijk zijn. Daarom is het van cruciaal belang om ze op de juiste manier toe te passen. De definitieve versie (1.0) van PGS 37-1 is in december 2023 gepubliceerd, na vaststelling door het Bestuurlijk Omgevingsberaad (BOb). De definitieve versie is inhoudelijk gelijk aan het definitieve concept (versie 0.2). Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Zie ook de norm NEN 4288:2020 ‘Bedrijfsvoering van batterij-energieopslagsystemen - Aanvullende eisen op NEN 3140’: www.nen.nl/nen-4288-2020-nl-276480 . Achtergrondinformatie Circulaire risicobeheersing lithium-ion energiedragers Meest actuele versie PGS 37-1:2023 versie 1.0 (DECEMBER 2023) Definitief Overige recente versies PGS 37-1:2023 versie 0.2 (JULI 2023) Definitief concept Concept PGS 37-1:2022 versie 0.1 (februari 2022) Concept Inschrijven nieuwsbrief PGS 37-1 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 37-1 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Circulaire risicobeheersing lithium-ion energiedragers",
+      "PGS 37-1:2023 versie 0.2 (JULI 2023) Definitief concept",
+      "Concept PGS 37-1:2022 versie 0.1 (februari 2022) Concept"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-1/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-1",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Circulaire risicobeheersing lithium-ion energiedragers",
+    "items": [
+      "Circulaire risicobeheersing lithium-ion energiedragers"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-1/"
+  },
+  {
+    "id": "Achtergrondinformatie",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-1",
+    "title": "Achtergrondinformatie",
+    "text": "Achtergrondinformatie Circulaire risicobeheersing lithium-ion energiedragers",
+    "items": [
+      "Circulaire risicobeheersing lithium-ion energiedragers"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-1/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-1",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-1/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-1",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-1/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-1",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-1/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-1",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-1/"
+  },
+  {
+    "id": "PGS 37-2",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-2",
+    "title": "PGS 37-2",
+    "text": "PGS 37-2 Lithiumhoudende energiedragers: Opslag Lithium-ion batterijen en accu’s zijn opslagmiddelen die worden gebruikt voor persoonlijke toepassingen (in telefoons, laptops, e-bikes, huishoudelijke apparatuur), in voertuigen (geheel elektrisch of hybride), voor e-schepen op de binnenvaart en in de toekomst ook de zeevaart. De opslag van lithium-ion batterijen en accu’s neemt een grote vlucht en kent verschillende risico’s. Wat de meeste met elkaar gemeen hebben is dat zij instabiel kunnen worden bij overladen, diepontladen, hoge èn lage temperaturen en slag of stoot. Dit kan in het ergste geval leiden tot kortsluiting, thermal runaway en brand waarbij zeer giftige pyrolyseproducten vrijkomen. Bij het blussen ontstaat corrosief en giftig bluswater waarbij ingezet personeel van de brandweer, andere hulpverleners, omstanders en bewoners blootgesteld kunnen worden. PGS 37-2 heeft betrekking op de opslag van lithium-houdende energiedragers. Wij verwijzen u ook naar onderstaande handreiking opgesteld door de Veiligheidsregio Haaglanden en Rotterdam-Rijnmond en het LIOGS (Landelijk Informatiepunt Ongevallen Gevaarlijke Stoffen). Daarnaast is er een Circulaire risicobeheersing lithium-ion energiedragers gepubliceerd in de Staatscourant. Circulaire risicobeheersing lithium-ion energiedragers in de Staatscourant Handreiking Elektriciteit Opslag Systemen (EOS > 25 kW Li-ION) De definitieve versie (1.0) van PGS 37-2 is in december 2023 gepubliceerd, na vaststelling door het Bestuurlijk Omgevingsberaad (BOb). De definitieve versie is inhoudelijk gelijk aan het definitieve concept (versie 0.2). Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Actualisatie planning 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties Meest actuele versie PGS 37-2:2023 versie 1.0 (DECEMBER 2023) Definitief Overige recente versies PGS 37-2:2023 versie 0.2 (NOVEMBER 2023) Definitief concept Concept PGS 37-2:2022 versie 0.1 (maart 2022) Concept Inschrijven nieuwsbrief PGS 37-2 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 37-2 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Circulaire risicobeheersing lithium-ion energiedragers in de Staatscourant",
+      "Handreiking Elektriciteit Opslag Systemen (EOS > 25 kW Li-ION)",
+      "Planning",
+      "Huidige herziening",
+      "PGS 37-2:2023 versie 0.2 (NOVEMBER 2023) Definitief concept",
+      "Concept PGS 37-2:2022 versie 0.1 (maart 2022) Concept"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-2/"
+  },
+  {
+    "id": "Actualisatie planning",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-2",
+    "title": "Actualisatie planning",
+    "text": "Actualisatie planning 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties",
+    "items": [
+      "Planning",
+      "Huidige herziening"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-2/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-2",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-2/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-2",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-2/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-2",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-2/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS37-2",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs37-2/"
+  },
+  {
+    "id": "PGS 38",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS38",
+    "title": "PGS 38",
+    "text": "PGS 38 Multi-energie stations Richtlijn voor veilige aflevering van een combinatie van energiedragers aan voertuigen en werktuigen PGS 38: Multi-energie stations, 'richtlijn voor veilige aflevering van een combinatie van energiedragers aan voertuigen en werktuigen’ is van toepassing op multi-energie stations. Dat zijn stations met afleverinstallaties voor verschillende energiedragers, waaronder een oplaadvoorziening voor elektrische voertuigen en werktuigen. Het gaat om afleverinstallaties die zijn genoemd in de volgende PGS-richtlijnen: PGS 16: LPG: Afleverinstallaties, vulinstallaties en skid-installaties PGS 25: Aardgasafleverinstallaties voor motorvoertuigen PGS 30: Vloeibare brandstoffen in bovengrondse tank- en afleverinstallaties PGS 33-1: Afleverinstallaties van vloeibaar aardgas (LNG) voor voertuigen en werktuigen PGS 35: Waterstofinstallaties voor het afleveren van waterstof aan voertuigen en werktuigen De bovengenoemde PGS-richtlijnen zijn opgesteld vanuit het oogpunt van een specifieke brandstof. Deze brandstoffen komen samen op een Multi Energy Station en dit wordt beschreven in PGS 38. De combinatie van energiedragers varieert per station. De definitieve versie (1.0) van PGS 38 is in december 2023 gepubliceerd, na vaststelling door het Bestuurlijk Omgevingsberaad (BOb). De definitieve versie is inhoudelijk gelijk aan het definitieve concept (versie 0.2). Een overzicht van de PGS-richtlijnen en de eventueel aangewezen versie in de Omgevingsregeling vindt u op de website van het IPLO: Overzicht PGS-richtlijnen . Hier vindt u ook informatie over ‘vooruitlopen’ indien de laatste PGS-versie (nog) niet is aangewezen in de Omgevingsregeling. Meer informatie over PGS Nieuwe Stijl vindt u in de korte introductievideo. Meest actuele versie PGS 38:2023 versie 1.0 (DECEMBER 2023) Definitief Overige recente versies PGS 38:2023 versie 0.2 (NOVEMBER 2023) Definitief concept Concept PGS 38:2023 versie 0.1 (januari 2023) Concept Inschrijven nieuwsbrief PGS 38 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 38 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "PGS 16: LPG: Afleverinstallaties, vulinstallaties en skid-installaties",
+      "PGS 25: Aardgasafleverinstallaties voor motorvoertuigen",
+      "PGS 30: Vloeibare brandstoffen in bovengrondse tank- en afleverinstallaties",
+      "PGS 33-1: Afleverinstallaties van vloeibaar aardgas (LNG) voor voertuigen en werktuigen",
+      "PGS 35: Waterstofinstallaties voor het afleveren van waterstof aan voertuigen en werktuigen",
+      "PGS 38:2023 versie 0.2 (NOVEMBER 2023) Definitief concept",
+      "Concept PGS 38:2023 versie 0.1 (januari 2023) Concept"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs38/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS38",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs38/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS38",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs38/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS38",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs38/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS38",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs38/"
+  },
+  {
+    "id": "PGS 39",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS39",
+    "title": "PGS 39",
+    "text": "PGS 39 Vergistingsinstallaties Actualisatie planning 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties Inschrijven nieuwsbrief PGS 39 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 39 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "Planning",
+      "Huidige herziening"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs39/"
+  },
+  {
+    "id": "Actualisatie planning",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS39",
+    "title": "Actualisatie planning",
+    "text": "Actualisatie planning 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties",
+    "items": [
+      "Planning",
+      "Huidige herziening"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs39/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS39",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs39/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS39",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs39/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS39",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs39/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS39",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs39/"
+  },
+  {
+    "id": "PGS 40",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS40",
+    "title": "PGS 40",
+    "text": "PGS 40 Installaties voor de productie van waterstof door elektrolyse Waterstof, geproduceerd via elektrolyse met hernieuwbare energie, speelt een belangrijke rol in de energietransitie. PGS 40 is van toepassing op een installatie voor de productie van waterstof door elektrolyse van watermoleculen. Bij elektrolyse worden watermoleculen, onder invloed van elektrische spanning, gesplitst in waterstof en zuurstof. Onderdeel van de installatie voor de productie van waterstof zijn in elk geval de elektrolyser (inclusief separatoren), de bufferopslag, de compressor, de aangesloten opslag van het geproduceerde waterstof en zuurstof en procesleidingen en appendages. Ook het vullen van een mobiele opslagvoorziening (tubetrailer, flessenbatterij) is onderdeel van de installatie. PGS 40 geldt voor alle installaties die gebruik maken van de volgende technieken: alkaline water elektrolysis (AWE), proton exchange membrane (PEM), anion exchange membrane (AEM) en solid oxide electrolyser cell (SOEC). De richtlijn is van toepassing op een installatie met een totale hoeveelheid waterstof van meer dan 1 kg. Buiten het toepassingsbereik De volgende activiteiten vallen buiten het toepassingsbereik van PGS 40: elektrolyse van een andere stof dan watermoleculen; omzetten wisselspanning naar gelijkspanning; het proces om zuiver water te maken; het omzetten van gasvormig waterstof in vloeibaar waterstof; de afvoer van waterstof via transportleidingen; andere activiteiten met zuurstof dan de opslag van zuurstof, bijvoorbeeld compressie, reinigen, vloeibaar maken, verladen, transporteren; de opslag van waterstof die niet is aangesloten op de installatie. Wanneer is de richtlijn klaar? De definitieve richtlijn wordt in het 4e kwartaal 2025 verwacht zie Planning huidige werkprogramma . Na het verwerken van het commentaar uit de commentaarronde door het PGS 40 team zal de PGS-richtlijn worden vastgesteld door de PGS-stuurgroep en vervolgens worden goedgekeurd door het Bestuurlijk Omgevingsberaad. Actualisatie planning 25 20 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties Meest actuele versie versie 0.1 (juni 2025) Concept Inschrijven nieuwsbrief PGS 40 Om u in de toekomst op de hoogte te houden van belangrijke wijzigingen en actualisaties in PGS 40 kunt u zich hieronder aanmelden doormiddel van het achterlaten van uw emailadres. Aanmelden",
+    "items": [
+      "elektrolyse van een andere stof dan watermoleculen;",
+      "omzetten wisselspanning naar gelijkspanning;",
+      "het proces om zuiver water te maken;",
+      "het omzetten van gasvormig waterstof in vloeibaar waterstof;",
+      "de afvoer van waterstof via transportleidingen;",
+      "andere activiteiten met zuurstof dan de opslag van zuurstof, bijvoorbeeld compressie, reinigen, vloeibaar maken, verladen, transporteren;",
+      "de opslag van waterstof die niet is aangesloten op de installatie.",
+      "Planning",
+      "Huidige herziening"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs40/"
+  },
+  {
+    "id": "Actualisatie planning",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS40",
+    "title": "Actualisatie planning",
+    "text": "Actualisatie planning 25 20 25 20 25 20 26 20 26 20 26 20 27 20 27 20 27 20 Planning Huidige herziening Bekijk alle actualisaties",
+    "items": [
+      "Planning",
+      "Huidige herziening"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs40/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS40",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures Documenten Pagina's Nieuws Reacties en vragen Organisatie Contact Planning Pagina's PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft PGS Programmabureau Copyright © 2025 Gebruikersvoorwaarden",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures",
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs40/"
+  },
+  {
+    "id": "Documenten",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS40",
+    "title": "Documenten",
+    "text": "Documenten Publicaties Handreikingen Procedures",
+    "items": [
+      "Publicaties",
+      "Handreikingen",
+      "Procedures"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs40/"
+  },
+  {
+    "id": "Pagina's",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS40",
+    "title": "Pagina's",
+    "text": "Pagina's Nieuws Reacties en vragen Organisatie Contact Planning",
+    "items": [
+      "Nieuws",
+      "Reacties en vragen",
+      "Organisatie",
+      "Contact",
+      "Planning"
+    ],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs40/"
+  },
+  {
+    "id": "PGS Programmabureau",
+    "type": "section",
+    "pgs": "PUBLICATIES/PGS40",
+    "title": "PGS Programmabureau",
+    "text": "PGS Programmabureau Bezoekadres Vlinderweg 6 2623 AX Delft Postadres Postbus 5059 2623 AX Delft",
+    "items": [],
+    "tables": [],
+    "source": "https://publicatiereeksgevaarlijkestoffen.nl/publicaties/pgs40/"
+  }
+]
